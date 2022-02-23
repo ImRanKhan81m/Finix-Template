@@ -861,9 +861,7 @@ ul.our-primary-menu li ul li{
 .widget-social  ul{
     display: flex;
 }
-.widget-social  ul li{
 
-}
 .widget-social  ul li a{
     font-size: 16 px;
     padding:6px;
@@ -905,9 +903,7 @@ ul.our-primary-menu li ul li{
     margin-right: 20px;
     font-size: 20px;
 }
-.footer-contact-item  span i{
 
-}
 .footer-contact-item  span{
     font-size:17px ;
 }
